@@ -13,3 +13,5 @@ Mutation and Crossover: Solutions undergo mutation and crossover operations to i
 
 Objective Function Optimization: The algorithm aims to optimize a given objective function by finding solutions that minimize or maximize it.
 
+The files contain 4 files. An implementation of the PSA running against the Rosenbrock function, and another against the Egg Crate Function. The file also contains versions of the Genetic Algorithm running against the same functions for testing purposes. The Genetic Algorithm was modified from the GA found in the Opytimizer library.
+
